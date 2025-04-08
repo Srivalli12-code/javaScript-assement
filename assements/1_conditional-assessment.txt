@@ -1,0 +1,109 @@
+Here are some **programming assessment questions** focused on **if-else conditionals**. These questions cover various levels of difficulty, from beginner to advanced, and they test a candidate's ability to think logically and apply conditional logic in different scenarios.
+
+---
+
+### 1. **Basic Questions**
+
+#### 1.1 **Even or Odd Number**
+Write a program to check if a number entered by the user is **even** or **odd**.
+
+#### 1.2 **Check if a Number is Positive, Negative, or Zero**
+Write a program to check if a number entered by the user is **positive**, **negative**, or **zero**.
+
+#### 1.3 **Grade Evaluation**
+Write a program that accepts a student's **score** and prints:
+- **A** if the score is between 90 and 100 (inclusive),
+- **B** if the score is between 80 and 89,
+- **C** if the score is between 70 and 79,
+- **D** if the score is between 60 and 69,
+- **F** if the score is below 60.
+
+### 2. **Intermediate Questions**
+
+#### 2.1 **Leap Year Check**
+Write a program to check whether a given year is a **leap year** or not. A year is a leap year if:
+- It is divisible by 4, **and**
+- It is **not divisible** by 100 unless it is divisible by 400.
+
+#### 2.2 **Find the Largest of Three Numbers**
+Write a program that accepts three numbers from the user and prints the **largest number**. If all the numbers are equal, print "All numbers are equal."
+
+#### 2.3 **Check Divisibility by 3 or 5**
+Write a program that takes a number and checks:
+- If the number is divisible by 3, print "Divisible by 3."
+- If the number is divisible by 5, print "Divisible by 5."
+- If the number is divisible by both 3 and 5, print "Divisible by both 3 and 5."
+- If neither, print "Not divisible by 3 or 5."
+
+### 3. **Advanced Questions**
+
+#### 3.1 **Find the Second Largest Number**
+Write a program that takes three numbers and returns the **second-largest number**. If there are two or more numbers that are equal, return that number.
+
+#### 3.2 **Check Whether a Number is Prime**
+Write a program to check whether a given number is **prime** or **not**. A prime number is a number greater than 1 that has no positive divisors other than 1 and itself.
+
+#### 3.3 **Check Age for Voting**
+Write a program that takes a person's **age** and prints:
+- "Eligible to vote" if the age is **18 or older**.
+- "Not eligible to vote" if the age is **below 18**.
+- If the age is below 0 or more than 120, print an "Invalid age" message.
+
+#### 3.4 **Sum of Digits**
+Write a program that calculates the **sum of digits** of a given number. For example:
+- Input: 1234
+- Output: 1 + 2 + 3 + 4 = 10
+
+#### 3.5 **Check Whether a Triangle is Valid**
+Write a program to check whether the three given sides can form a **valid triangle**. A triangle is valid if the sum of any two sides is greater than the third side.
+
+### 4. **Logic and Edge Case Questions**
+
+#### 4.1 **Smallest of Three Numbers**
+Write a program that takes three numbers and prints the **smallest number**. Consider edge cases like two or more equal numbers.
+
+#### 4.2 **Check for Palindrome Number**
+Write a program that checks if a given number is a **palindrome** or not. A palindrome number reads the same backward as forward. For example:
+- Input: 121
+- Output: Yes (It's a palindrome)
+
+#### 4.3 **Calculate the Discount on Price**
+Write a program that takes a **price** and applies a **discount** based on the following conditions:
+- If the price is greater than or equal to $100, apply a 10% discount.
+- If the price is between $50 and $100, apply a 5% discount.
+- If the price is less than $50, apply no discount.
+
+Print the **final price** after applying the discount.
+
+#### 4.4 **FizzBuzz Problem**
+Write a program to print numbers from 1 to 100. However:
+- If a number is divisible by 3, print "Fizz."
+- If a number is divisible by 5, print "Buzz."
+- If a number is divisible by both 3 and 5, print "FizzBuzz."
+- Otherwise, print the number itself.
+
+---
+
+### 5. **Real-Life Scenario Based Questions**
+
+#### 5.1 **Determine Tax Bracket**
+Write a program to calculate the **tax** based on the salary:
+- If the salary is less than $30,000, the tax is 10% of the salary.
+- If the salary is between $30,000 and $60,000, the tax is 20% of the salary.
+- If the salary is above $60,000, the tax is 30% of the salary.
+
+#### 5.2 **Check if an Email is Valid**
+Write a program to check whether an entered email address is **valid** based on the following conditions:
+- It should contain **"@"**.
+- It should contain at least one **"."** after the "@" symbol.
+- The length should be at least **5 characters**.
+
+#### 5.3 **Shipping Cost Based on Weight**
+Write a program that calculates the shipping cost based on the weight of a package:
+- If the weight is **less than or equal to 5 kg**, the shipping cost is **$10**.
+- If the weight is **greater than 5 kg but less than or equal to 20 kg**, the shipping cost is **$20**.
+- If the weight is **greater than 20 kg**, the shipping cost is **$50**.
+
+---
+
+These questions will test various aspects of conditional logic, including edge cases, and can be adjusted for difficulty depending on the needs of your assessment. If you need solutions to any of these, feel free to ask!
