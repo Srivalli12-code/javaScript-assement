@@ -1,3 +1,11 @@
+/*#### 2.2 **Find the Largest of Three Numbers**
+Write a program that accepts three numbers from the user and prints the **largest number**.
+ If all the numbers are equal, print "All numbers are equal."
+*/
+
+/*
+*/
+
 const Promptlar = require("prompt-sync")();
 
 console.log("Enter three numbers : ");
